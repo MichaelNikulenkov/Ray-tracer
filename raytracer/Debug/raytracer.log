@@ -1,0 +1,13 @@
+﻿  main.cpp
+  materials.cpp
+  obstacles.cpp
+  renderer.cpp
+c:\users\we\documents\cpp\projects\raytracer\raytracer\renderer.cpp(79): warning C4018: '<': signed/unsigned mismatch
+  scene.cpp
+c:\users\we\documents\cpp\projects\raytracer\raytracer\scene.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\we\documents\cpp\projects\raytracer\raytracer\scene.cpp(71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\we\documents\cpp\projects\raytracer\raytracer\scene.cpp(81): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\we\documents\cpp\projects\raytracer\raytracer\scene.cpp(82): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\we\documents\cpp\projects\raytracer\raytracer\scene.cpp(83): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  raytracer.vcxproj -> C:\Users\we\Documents\CPP\Projects\raytracer\Debug\raytracer.exe
